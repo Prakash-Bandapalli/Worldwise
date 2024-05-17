@@ -1,6 +1,5 @@
-# World Wise
 
-![World Wise](https://worldwise-jonas.netlify.app/logo.png)
+(https://worldwise-jonas.netlify.app/logo.png)
 
 ## About
 

@@ -1,5 +1,5 @@
 
-(https://worldwise-jonas.netlify.app/logo.png)
+![World Wise](https://worldwise-jonas.netlify.app/logo.png)
 
 ## About
 
